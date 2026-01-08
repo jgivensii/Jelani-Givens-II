@@ -61,8 +61,8 @@ Implements music theory, MIDI protocol handling, and algorithmic composition.
 
 ## 📫 Connect With Me
 📧 **Email:** JelaniGivensII@gmail.com  
-🔗 **GitHub:** *(add your link once your profile is set)*  
-🔗 **LinkedIn:** *(optional)*  
+🔗 **GitHub:** *https://github.com/jgivensii*  
+🔗 **LinkedIn:** *https://www.linkedin.com/in/jelanigivensii/*  
 
 ---
 
